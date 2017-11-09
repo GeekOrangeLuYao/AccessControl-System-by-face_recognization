@@ -13,3 +13,6 @@ faster-cnn 跑 vgg16
 
 ## 标准化操作
 参看doc中间的标准化的代码，这个是一个传统的做法
+
+## Api部分
+Api部分是使用了EyeKey的Api实现的这个功能，使用urllib等库
